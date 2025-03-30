@@ -1,0 +1,4 @@
+ShooterAssetPack/*.uasset filter=lfs diff=lfs merge=lfs -text
+ShooterAssetPack/*.umap filter=lfs diff=lfs merge=lfs -text
+ShooterAssetPack/*.png filter=lfs diff=lfs merge=lfs -text
+ShooterAssetPack/*.mp4 filter=lfs diff=lfs merge=lfs -text
